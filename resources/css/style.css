@@ -11,3 +11,7 @@ h1 {
   font-size: 50px;
   color: white;
 }
+a.downloadLink {
+  color: aquamarine;
+  font-size: 16;
+}
